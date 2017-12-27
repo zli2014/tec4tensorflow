@@ -1,9 +1,9 @@
 #-*-coding=utf-8
 '''
-Created on 2017年2月19日
-
-@author: Lu.yipiao
+Created on 2017年12月28日
 @author:lee
+env: python3.6 
+tensorlfow 1.3.0
 '''
 
 import pandas as pd
